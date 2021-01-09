@@ -4,4 +4,4 @@
 
 My most recent position was being a Teaching Assistant at Carleotn, where I helped teach a first-year Discrete Structures class.
 
-I'm most comfortable in Java and Python, and have many years of experience writing code in both. Furthermore, I've explored many different languages and frameworks including React.JS and SQL. You'll be able to find more information on my [resume](<a id="resume" href="https://raw.githubusercontent.com/D-Katz/resume/master/David-Katz-Resume.pdf">Download </a>) 📝.
+I'm most comfortable in Java and Python, and have many years of experience writing code in both. Furthermore, I've explored many different languages and frameworks including React.JS and SQL. You'll be able to find more information on my (<a id="resume" href="https://raw.githubusercontent.com/D-Katz/resume/master/David-Katz-Resume.pdf">Resume </a>) 📝.
